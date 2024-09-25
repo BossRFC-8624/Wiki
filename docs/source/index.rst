@@ -21,4 +21,5 @@ Contents
    usage
    api
    charly
+   
 Lumache hosts its documentation on Read the Docs.

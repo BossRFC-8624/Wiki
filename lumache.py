@@ -1,5 +1,5 @@
 """
-Wiki - Boss - Python library for cooks and food lovers.
+lumache - Python library for cooks and food lovers.
 """
 
 __version__ = "0.1.0"
